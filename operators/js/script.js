@@ -20,5 +20,15 @@ console.log(typeof (4 < 5));   //boolean datatype
 
 
 console.log(Number("wecode"));   //naN(not a number)
-
+document.write(a-- + ++a);
+// console.log(++a + a++ + a++);
+// console.log(7 % 4 ** 3);
+// var x = 4;
+// var y = 6;
+// var z = 8;
+// console.log(x + y * 3 - z);
+// document.write(3);
+// document.write(2,3,3,4,5,6,7);
+// document.write(4 +" "+ 4,5,6);
+// document.write("wecode");
 
